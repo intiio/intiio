@@ -1,4 +1,4 @@
-<a href="https://ok.com" target="ok" style="ok" class="ok" name="ok" id="name">lol</a>
+<a href="https://ok.com" name="ok<u>ok" id="name">lol</a>
 
 
 
